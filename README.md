@@ -52,7 +52,7 @@
   </style>
 </head>
 <body>
-<img src=  “images/poollicht.jpg”/>
+<img src=“poollicht.jpg”/>
   
 <!-- Navbar -->
 <nav class="navbar navbar-default">
