@@ -52,7 +52,8 @@
   </style>
 </head>
 <body>
-
+<img src=  “images/poollicht.jpg”/>
+  
 <!-- Navbar -->
 <nav class="navbar navbar-default">
   <div class="container">
